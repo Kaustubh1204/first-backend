@@ -1,0 +1,16 @@
+{
+  "name": "1st-project",
+  "version": "1.0.0",
+  "description": "1st backened project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "uwu"
+  ],
+  "author": "Kaustubh Mishra",
+  "license": "ISC"
+}
